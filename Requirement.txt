@@ -2,7 +2,7 @@
 - Pandas
 - Seaborn
 - Matplotlib
-- Sklearn
+- scikit-learn
 - LogisticRegression
 - RandomForestClassifier
 - SVC

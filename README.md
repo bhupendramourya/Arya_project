@@ -68,5 +68,6 @@ I have also code a classification report for each of the models, which measures 
 From the accuracy and metrics above, the model that performed the best on the test data was the "Random Forest Classifier". It had an accuracy score of about **94.8%**.
 It’s important to note that we can increase this accuracy with more input data and tweaking the parameters!
 
-So atlast I'm choosing Random Forest Classifier model to make predictions of Df_test dataset.
+Random Forest Classifier Model had an Highest accuracy
+So I'm choosing Random Forest Classifier model to make predictions on df_test dataset.
  

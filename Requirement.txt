@@ -3,3 +3,6 @@
 - Seaborn
 - Matplotlib
 - Sklearn
+- LogisticRegression
+- RandomForestClassifier
+- SVC
